@@ -1,2 +1,8 @@
 # Make_it_more_human...
+--Use f11 and headphones for a better experience--
+
 This game is not intended to offend any group. It was created 100% for fun, and none of the situations depicted thround he talented or imitated. The game is intended for users over 18 years of age. It contains blood, gore, hatetul scenes, and flashing lights. If you feel uncomfortable while playing, please leave immediately.
+
+
+'
+This game was created using Scratch...
